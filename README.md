@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Se7enSquared
 - 👀 I'm a python and VBA developer who loves building things with code
-- 🌱 I’m building projects to grow my skills
+- 🌱 I’m building projects to grow my skills and for fun
+- See my gists for lots of VBA gists
