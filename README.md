@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Se7enSquared
-- 👀 I'm a python developer who loves building things with code
+- 👀 I'm a python and VBA developer who loves building things with code
 - 🌱 I’m building projects to grow my skills
