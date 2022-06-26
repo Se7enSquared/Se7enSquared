@@ -1,3 +1,4 @@
 Hello I'm Heather, a Python and VBA developer who loves building things with code.
-Currently exploring: Fast API, Django, and htmx
+I'm always learning to improve my skills as a developer. In my lates projects, I am exploring Fast API, Django, and htmx!
+
 NOTE: My in progress projects are private. Can demo on interview.
