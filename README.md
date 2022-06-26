@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Se7enSquared
-- 👀 I'm a python and VBA developer who loves building things with code
-- 🌱 I’m building projects to grow my skills and for fun
-- See my gists for lots of VBA gists
+Hello I'm Heather, a Python and VBA developer who loves building things with code.
+Currently exploring: Fast API, Django, and htmx
+NOTE: My in progress projects are private. Can demo on interview.
