@@ -10,4 +10,4 @@ I'm a confirmed cat lady and software engineer living my best life in the mounta
 ## Skills & Stats
 ![Se7enSquared's GitHub stats](https://github-readme-stats.vercel.app/api?username=Se7enSquared&show_icons=true&theme=radical)
 
-[![My Technologies](https://skillicons.dev/icons?i=py,sqlite,mysql,azure,powershell,bootstrap,bash,html,css,django,flask,git,vscode,linux)](https://skillicons.dev)
+[![My Technologies](https://skillicons.dev/icons?i=py,sqlite,mysql,azure,powershell,bootstrap,bash,html,css,django,flask,git,vscode,linux,fastapi)](https://skillicons.dev)
