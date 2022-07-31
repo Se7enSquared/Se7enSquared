@@ -1,10 +1,13 @@
-#### I'm a Python and VBA developer who loves building things with code. I'm always learning to improve my skills as a developer. In my current projects, I am exploring Fast API, Pydantic, Django, and htmx!
+# Welcome to my Github
 
-NOTE: My in progress projects are private. Can demo on interview.
+![image](https://user-images.githubusercontent.com/30607353/182042084-907bd1ce-ef90-419b-86ff-f39ddf010a38.png)
 
-*"In the face of ambiguity, refuse the temptation to guess."* - The Zen of Python
+## About me
+I'm a confirmed cat lady and software engineer living my best life in the mountains of Colorado. I love building things with code. I'm always learning to improve my skills as a developer. In my current projects, I am exploring Fast API, Pydantic, Django, and htmx!
 
+🐍 *"In the face of ambiguity, refuse the temptation to guess."* - The Zen of Python
 
+## Skills & Stats
 ![Se7enSquared's GitHub stats](https://github-readme-stats.vercel.app/api?username=Se7enSquared&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Se7enSquared)](https://github.com/Se7enSquared/github-readme-stats)
+[![My Technologies](https://skillicons.dev/icons?i=py,sqlite,mysql,azure,powershell,bootstrap,bash,html,css,django,flask,git,vscode,linux)](https://skillicons.dev)
