@@ -5,4 +5,4 @@ NOTE: My in progress projects are private. Can demo on interview.
 *"In the face of ambiguity, refuse the temptation to guess."* - The Zen of Python
 
 
-[![Se7enSquared's GitHub stats](https://github-readme-stats.vercel.app/api?username=Se7enSquared)](https://github.com/Se7enSquared/github-readme-stats&show_icons=true&theme=radical)
+![Se7enSquared's GitHub stats](https://github-readme-stats.vercel.app/api?username=Se7enSquared&show_icons=true&theme=radical)
