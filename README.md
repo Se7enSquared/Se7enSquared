@@ -6,3 +6,5 @@ NOTE: My in progress projects are private. Can demo on interview.
 
 
 ![Se7enSquared's GitHub stats](https://github-readme-stats.vercel.app/api?username=Se7enSquared&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Se7enSquared)](https://github.com/Se7enSquared/github-readme-stats)
