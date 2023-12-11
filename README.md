@@ -7,7 +7,6 @@
 ## About me
 I'm a confirmed crazy cat lady and computer geek in northern Colorado. I love building things with code. I'm always learning to improve my skills as a developer. I have built a long and interesting career in multiple subfields of the tech industry and in some ways, I am a jack of all trades.
 
-## Skills & Stats
-![Se7enSquared's GitHub stats](https://github-readme-stats.vercel.app/api?username=Se7enSquared&show_icons=true&theme=tokyonight&border_radius=50)
+## Skills
 
 [![My Technologies](https://skillicons.dev/icons?i=py,sqlite,mysql,azure,powershell,bootstrap,bash,html,css,django,flask,git,vscode,linux,fastapi)](https://skillicons.dev)
