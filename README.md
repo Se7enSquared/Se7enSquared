@@ -9,4 +9,4 @@ I'm a confirmed crazy cat lady and computer geek in northern Colorado. I love bu
 
 ## Skills
 
-[![My Technologies](https://skillicons.dev/icons?i=py,sqlite,mysql,azure,powershell,bootstrap,bash,html,css,django,flask,git,vscode,linux,fastapi)](https://skillicons.dev)
+[![My Technologies](https://skillicons.dev/icons?i=cs,dotnet,py,sqlite,mysql,azure,powershell,bootstrap,bash,html,css,django,flask,git,vscode,linux,fastapi)](https://skillicons.dev)
